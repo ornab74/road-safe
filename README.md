@@ -1,11 +1,9 @@
-
-
 # 🧩 Road Safe
 
-### **Author:**  Graylan Janulis
-### **Model Version:** LLaMA3-Small-Q3_K_M (GGUF)  
-### **Encryption Layer:** AES-GCM + PBKDF2-HMAC-SHA256  
-### **Quantum Layer:** PennyLane Variational Entropy Gate  
+**Author:**  Graylan Janulis
+**Model Version:** LLaMA3-Small-Q3_K_M (GGUF)  
+**Encryption Layer:** AES-GCM + PBKDF2-HMAC-SHA256  
+**Quantum Layer:** PennyLane Variational Entropy Gate  
 <img width="1024" height="1536" alt="17657552301753933381716410967510" src="https://github.com/user-attachments/assets/dfad7f9d-12fb-4363-ac7e-071c6bac892e" />
 
 
