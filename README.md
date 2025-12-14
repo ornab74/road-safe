@@ -1,6 +1,7 @@
 # 🧩 Road Safe
 
 **Author:**  Graylan Janulis
+
 **Model Version:** LLaMA3-Small-Q3_K_M (GGUF)  
 **Encryption Layer:** AES-GCM + PBKDF2-HMAC-SHA256  
 **Quantum Layer:** PennyLane Variational Entropy Gate  
