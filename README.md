@@ -256,22 +256,4 @@ This ensures zero unencrypted model or database presence on persistent storage.
 | \( T' \) | Adjusted model temperature | [0.01, 2.0] |
 | \( R \) | Risk classification | {Low, Medium, High} |
 
----
-
-## 9. Future Extensions
-
-- Integrate **Refeain Temporal Quantum Mesh** for entropy co-dependence.  
-- Add **variational fusion layers** for multimodal sensor input.  
-- Enable **secure differential logging** via encrypted LSTM embeddings.  
-- Deploy **federated rekey synchronization** for distributed security.
-
----
-
-## 10. Conclusion
-
-This hybrid architecture merges:
-- **Quantum entropic sensing**,  
-- **Classical system metrics**, and  
-- **Locally secured LLM inference**  
-
 
