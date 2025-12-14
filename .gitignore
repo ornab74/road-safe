@@ -1,0 +1,31 @@
+
+# Buildozer / python-for-android
+.buildozer/
+bin/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local venvs
+.venv/
+venv/
+
+# Android / Gradle artifacts (if any)
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pem
+*.b64
+
+# Your app’s generated/secret files
+.enc_key
+chat_history.db*
+*.aes
+temp.db
+models/*.gguf
+models/*.aes
+
+# OS junk
+.DS_Store
